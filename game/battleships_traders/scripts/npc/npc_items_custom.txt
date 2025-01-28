@@ -3,7 +3,6 @@
 
   // "item_caulk_bow"
   // {
-  //   "ID"                            "2222"
   //   "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
   //   "BaseClass"                     "item_lua"
   //   "ScriptFile"                    "items/item_caulk"
@@ -34,7 +33,6 @@
 
   // "item_caulk_bow_doubled"
   // {
-  //   "ID"                            "2223"
   //   "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
   //   "BaseClass"                     "item_lua"
   //   "ScriptFile"                    "items/item_caulk"
@@ -65,7 +63,6 @@
 
   // "item_caulk_two_bow"
   // {
-  //   "ID"                            "2224"
   //   "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
   //   "BaseClass"                     "item_lua"
   //   "ScriptFile"                    "items/item_caulk"
@@ -96,7 +93,6 @@
 
   // "item_caulk_two_bow_doubled"
   // {
-  //   "ID"                            "2225"
   //   "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
   //   "BaseClass"                     "item_lua"
   //   "ScriptFile"                    "items/item_caulk"
@@ -127,7 +123,6 @@
 
   // "item_caulk_three_bow"
   // {
-  //   "ID"                            "2226"
   //   "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
   //   "BaseClass"                     "item_lua"
   //   "ScriptFile"                    "items/item_caulk"
@@ -158,7 +153,6 @@
 
   // "item_caulk_three_bow_doubled"
   // {
-  //   "ID"                            "2227"
   //   "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
   //   "BaseClass"                     "item_lua"
   //   "ScriptFile"                    "items/item_caulk"
@@ -189,7 +183,6 @@
 
   // "item_caulk_ult_bow"
   // {
-  //   "ID"                            "2228"
   //   "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
   //   "BaseClass"                     "item_lua"
   //   "ScriptFile"                    "items/item_caulk"
@@ -220,7 +213,6 @@
 
  "item_spread_bow"
   {
-    "ID"                            "2222"
     "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
     "BaseClass"                     "item_lua"
     "ScriptFile"                    "items/item_spread"
@@ -252,7 +244,6 @@
 
   "item_spread_bow_doubled"
   {
-    "ID"                            "2223"
     "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
     "BaseClass"                     "item_lua"
     "ScriptFile"                    "items/item_spread"
@@ -284,7 +275,6 @@
 
   "item_spread_two_bow"
   {
-    "ID"                            "2224"
     "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
     "BaseClass"                     "item_lua"
     "ScriptFile"                    "items/item_spread"
@@ -316,7 +306,6 @@
 
   "item_spread_two_bow_doubled"
   {
-    "ID"                            "2225"
     "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
     "BaseClass"                     "item_lua"
     "ScriptFile"                    "items/item_spread"
@@ -348,7 +337,6 @@
 
   "item_spread_three_bow"
   {
-    "ID"                            "2226"
     "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
     "BaseClass"                     "item_lua"
     "ScriptFile"                    "items/item_spread"
@@ -380,7 +368,6 @@
 
   "item_spread_three_bow_doubled"
   {
-    "ID"                            "2227"
     "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
     "BaseClass"                     "item_lua"
     "ScriptFile"                    "items/item_spread"
@@ -412,7 +399,6 @@
 
   "item_spread_ult_bow"
   {
-    "ID"                            "2228"
     "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
     "BaseClass"                     "item_lua"
     "ScriptFile"                    "items/item_spread"
@@ -453,7 +439,6 @@
     //=================================================================================================================
     "item_recipe_fluff"
     {
-        "ID"							"501"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -503,7 +488,6 @@
     //=================================================================================================================
     "item_recipe_fluff2"
     {
-        "ID"							"502"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 					"SideShop"						"1"
@@ -551,7 +535,6 @@
     //=================================================================================================================
     "item_recipe_fluff3"
     {
-        "ID"							"503"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 					"SideShop"						"1"
@@ -599,7 +582,6 @@
     //=================================================================================================================
     "item_recipe_fluff4"
     {
-        "ID"							"504"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 					"SideShop"						"1"
@@ -647,7 +629,6 @@
     //=================================================================================================================
     "item_recipe_fluff5"
     {
-        "ID"							"505"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 				"SideShop"						"1"
@@ -695,7 +676,6 @@
     //=================================================================================================================
     "item_recipe_fluff6"
     {
-        "ID"							"506"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 				"SideShop"						"1"
@@ -743,7 +723,6 @@
     //=================================================================================================================
     "item_recipe_fluff7"
     {
-        "ID"							"507"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 					"SideShop"						"1"
@@ -791,7 +770,6 @@
     //=================================================================================================================
     "item_recipe_fluff8"
     {
-        "ID"							"508"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 					"SideShop"						"1"
@@ -841,7 +819,6 @@
     //=================================================================================================================
     "item_recipe_fluff9"
     {
-        "ID"							"509"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 					"SideShop"						"1"
@@ -890,7 +867,6 @@
 //    //=================================================================================================================
 //    "item_recipe_hull_sail_one_combo"
 //    {
-//        "ID"							"501"
 
 //        "BaseClass"						"item_datadriven"
 		"SideShop"						"1"
@@ -916,7 +892,6 @@
 	
 //    "item_recipe_hull_sail_two_combo"
 //    {
-//        "ID"							"502"
 
 //        "BaseClass"						"item_datadriven"
 
@@ -942,7 +917,6 @@
 	
 //    "item_recipe_hull_sail_three_combo"
 //    {
-//        "ID"							"503"
 
 //        "BaseClass"						"item_datadriven"
 		"SideShop"						"1"
@@ -967,7 +941,6 @@
 	
 //    "item_recipe_hull_sail_four_combo"
 //    {
- //       "ID"							"510"
 //
   //      "BaseClass"						"item_datadriven"
 //
@@ -992,7 +965,6 @@
 //    //=================================================================================================================
 //    "item_recipe_repair_wood_one_combo"
 //    {
-//        "ID"							"551"
 
 //        "BaseClass"						"item_datadriven"
 
@@ -1018,7 +990,6 @@
 	
 //    "item_recipe_repair_wood_two_combo"
 //    {
-//        "ID"							"552"
 
 //        "BaseClass"						"item_datadriven"
 
@@ -1044,7 +1015,6 @@
 	
 //    "item_recipe_repair_wood_three_combo"
 //    {
-//        "ID"							"553"
 
 //        "BaseClass"						"item_datadriven"
 
@@ -1070,7 +1040,6 @@
 	//=================================================================================================================
 	"item_recipe_poison_bow_doubled"
 	{
-		"ID"							"2001"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1095,7 +1064,6 @@
 	//=================================================================================================================
 	"item_recipe_fire_bow_doubled"
 	{
-		"ID"							"2002"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1119,7 +1087,6 @@
 	//=================================================================================================================
 	"item_recipe_ice_bow_doubled"
 	{
-		"ID"							"2003"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		// Item Info
@@ -1141,7 +1108,6 @@
 	//=================================================================================================================
 	"item_recipe_wind_bow_doubled"
 	{
-		"ID"							"2004"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		// Item Info
@@ -1163,7 +1129,6 @@
 	//=================================================================================================================
 	"item_recipe_light_bow_doubled"
 	{
-		"ID"							"2005"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1186,7 +1151,6 @@
 	//=================================================================================================================
 	"item_recipe_coal_bow_doubled"
 	{
-		"ID"							"2006"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1209,7 +1173,6 @@
 	//=================================================================================================================
 	"item_recipe_plasma_bow_doubled"
 	{
-		"ID"							"2007"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1232,7 +1195,6 @@
 	//=================================================================================================================
 	"item_recipe_spin_bow_doubled"
 	{
-		"ID"							"2008"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1256,7 +1218,6 @@
 	//=================================================================================================================
 	"item_recipe_caulk_bow_doubled"
 	{
-		"ID"							"2009"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1280,7 +1241,6 @@
 	//=================================================================================================================
 	"item_recipe_spread_bow_doubled"
 	{
-		"ID"							"2009"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1305,7 +1265,6 @@
 	//=================================================================================================================
 	"item_recipe_breach_bow_doubled"
 	{
-		"ID"							"2010"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1329,7 +1288,6 @@
 	//=================================================================================================================
 	"item_recipe_chaos_bow_doubled"
 	{
-		"ID"							"2011"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1355,7 +1313,6 @@
 	//=================================================================================================================
 	"item_recipe_poison_two_bow_doubled"
 	{
-		"ID"							"2101"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1379,7 +1336,6 @@
 	//=================================================================================================================
 	"item_recipe_fire_two_bow_doubled"
 	{
-		"ID"							"2102"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1403,7 +1359,6 @@
 	//=================================================================================================================
 	"item_recipe_ice_two_bow_doubled"
 	{
-		"ID"							"2103"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1426,7 +1381,6 @@
 	//=================================================================================================================
 	"item_recipe_wind_two_bow_doubled"
 	{
-		"ID"							"2104"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1449,7 +1403,6 @@
 	//=================================================================================================================
 	"item_recipe_light_two_bow_doubled"
 	{
-		"ID"							"2105"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1472,7 +1425,6 @@
 	//=================================================================================================================
 	"item_recipe_coal_two_bow_doubled"
 	{
-		"ID"							"2106"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1495,7 +1447,6 @@
 	//=================================================================================================================
 	"item_recipe_plasma_two_bow_doubled"
 	{
-		"ID"							"2107"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1519,7 +1470,6 @@
 	//=================================================================================================================
 	"item_recipe_spin_two_bow_doubled"
 	{
-		"ID"							"2108"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1543,7 +1493,6 @@
 	//=================================================================================================================
 	"item_recipe_caulk_two_bow_doubled"
 	{
-		"ID"							"2109"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1566,7 +1515,6 @@
 	//=================================================================================================================
 	"item_recipe_spread_two_bow_doubled"
 	{
-		"ID"							"2109"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1591,7 +1539,6 @@
 	//=================================================================================================================
 	"item_recipe_breach_two_bow_doubled"
 	{
-		"ID"							"2110"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1615,7 +1562,6 @@
 	//=================================================================================================================
 	"item_recipe_chaos_two_bow_doubled"
 	{
-		"ID"							"2111"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1641,7 +1587,6 @@
 	//=================================================================================================================
 	"item_recipe_poison_three_bow_doubled"
 	{
-		"ID"							"2201"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1665,7 +1610,6 @@
 	//=================================================================================================================
 	"item_recipe_fire_three_bow_doubled"
 	{
-		"ID"							"2202"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1688,7 +1632,6 @@
 	//=================================================================================================================
 	"item_recipe_ice_three_bow_doubled"
 	{
-		"ID"							"2203"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1711,7 +1654,6 @@
 	//=================================================================================================================
 	"item_recipe_wind_three_bow_doubled"
 	{
-		"ID"							"2204"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1735,7 +1677,6 @@
 	//=================================================================================================================
 	"item_recipe_light_three_bow_doubled"
 	{
-		"ID"							"2205"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1758,7 +1699,6 @@
 	//=================================================================================================================
 	"item_recipe_coal_three_bow_doubled"
 	{
-		"ID"							"2206"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1781,7 +1721,6 @@
 	//=================================================================================================================
 	"item_recipe_plasma_three_bow_doubled"
 	{
-		"ID"							"2207"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1805,7 +1744,6 @@
 	//=================================================================================================================
 	"item_recipe_spin_three_bow_doubled"
 	{
-		"ID"							"2208"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1830,7 +1768,6 @@
 	//=================================================================================================================
 	"item_recipe_caulk_three_bow_doubled"
 	{
-		"ID"							"2209"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1854,7 +1791,6 @@
 	//=================================================================================================================
 	"item_recipe_spread_three_bow_doubled"
 	{
-		"ID"							"2209"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1878,7 +1814,6 @@
 	//=================================================================================================================
 	"item_recipe_breach_three_bow_doubled"
 	{
-		"ID"							"2210"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1903,7 +1838,6 @@
 	//=================================================================================================================
 	"item_recipe_chaos_three_bow_doubled"
 	{
-		"ID"							"2211"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1924,7 +1858,6 @@
 
 	"item_recipe_spread_plasma_mix_bow_doubled"
 	{
-		"ID"							"3001"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1944,7 +1877,6 @@
 	}
 	"item_recipe_plasma_fire_mix_bow_doubled"
 	{
-		"ID"							"3002"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1964,7 +1896,6 @@
 	}
 	"item_recipe_fire_coal_mix_bow_doubled"
 	{
-		"ID"							"3003"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -1984,7 +1915,6 @@
 	}
 	"item_recipe_coal_chaos_mix_bow_doubled"
 	{
-		"ID"							"3004"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2004,7 +1934,6 @@
 	}
 	"item_recipe_chaos_poison_mix_bow_doubled"
 	{
-		"ID"							"3005"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2024,7 +1953,6 @@
 	}
 	"item_recipe_poison_light_mix_bow_doubled"
 	{
-		"ID"							"3006"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2044,7 +1972,6 @@
 	}
 	"item_recipe_light_iron_mix_bow_doubled"
 	{
-		"ID"							"3007"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2064,7 +1991,6 @@
 	}
 	"item_recipe_iron_breach_mix_bow_doubled"
 	{
-		"ID"							"3008"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2084,7 +2010,6 @@
 	}
 	"item_recipe_breach_ice_mix_bow_doubled"
 	{
-		"ID"							"3009"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2104,7 +2029,6 @@
 	}
 	"item_recipe_ice_wind_mix_bow_doubled"
 	{
-		"ID"							"3010"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2124,7 +2048,6 @@
 	}
 	"item_recipe_spread_plasma_mix_two_bow_doubled"
 	{
-		"ID"							"3101"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2144,7 +2067,6 @@
 	}
 	"item_recipe_plasma_fire_mix_two_bow_doubled"
 	{
-		"ID"							"3102"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2164,7 +2086,6 @@
 	}
 	"item_recipe_fire_coal_mix_two_bow_doubled"
 	{
-		"ID"							"3103"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2184,7 +2105,6 @@
 	}
 	"item_recipe_coal_chaos_mix_two_bow_doubled"
 	{
-		"ID"							"3104"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2204,7 +2124,6 @@
 	}
 	"item_recipe_chaos_poison_mix_two_bow_doubled"
 	{
-		"ID"							"3105"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2224,7 +2143,6 @@
 	}
 	"item_recipe_poison_light_mix_two_bow_doubled"
 	{
-		"ID"							"3106"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2244,7 +2162,6 @@
 	}
 	"item_recipe_light_iron_mix_two_bow_doubled"
 	{
-		"ID"							"3107"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2264,7 +2181,6 @@
 	}
 	"item_recipe_iron_breach_mix_two_bow_doubled"
 	{
-		"ID"							"3108"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2284,7 +2200,6 @@
 	}
 	"item_recipe_breach_ice_mix_two_bow_doubled"
 	{
-		"ID"							"3109"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2304,7 +2219,6 @@
 	}
 	"item_recipe_ice_wind_mix_two_bow_doubled"
 	{
-		"ID"							"3110"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2324,7 +2238,6 @@
 	}
 	"item_recipe_spread_plasma_mix_three_bow_doubled"
 	{
-		"ID"							"3200"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2344,7 +2257,6 @@
 	}
 	"item_recipe_plasma_fire_mix_three_bow_doubled"
 	{
-		"ID"							"3201"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2364,7 +2276,6 @@
 	}
 	"item_recipe_fire_coal_mix_three_bow_doubled"
 	{
-		"ID"							"3202"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2384,7 +2295,6 @@
 	}
 	"item_recipe_coal_chaos_mix_three_bow_doubled"
 	{
-		"ID"							"3203"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2404,7 +2314,6 @@
 	}
 	"item_recipe_chaos_poison_mix_three_bow_doubled"
 	{
-		"ID"							"3204"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2424,7 +2333,6 @@
 	}
 	"item_recipe_poison_light_mix_three_bow_doubled"
 	{
-		"ID"							"3205"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2444,7 +2352,6 @@
 	}
 	"item_recipe_light_iron_mix_three_bow_doubled"
 	{
-		"ID"							"3206"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2464,7 +2371,6 @@
 	}
 	"item_recipe_iron_breach_mix_three_bow_doubled"
 	{
-		"ID"							"3207"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2484,7 +2390,6 @@
 	}
 	"item_recipe_breach_ice_mix_three_bow_doubled"
 	{
-		"ID"							"3208"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2504,7 +2409,6 @@
 	}
 	"item_recipe_ice_wind_mix_three_bow_doubled"
 	{
-		"ID"							"3209"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2526,7 +2430,6 @@
 
 	"item_recipe_spread_plasma_mix_ult_bow"
 	{
-		"ID"							"3300"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2546,7 +2449,6 @@
 	}
 	"item_recipe_plasma_fire_mix_ult_bow"
 	{
-		"ID"							"3301"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2566,7 +2468,6 @@
 	}
 	"item_recipe_fire_coal_mix_ult_bow"
 	{
-		"ID"							"3302"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2586,7 +2487,6 @@
 	}
 	"item_recipe_coal_chaos_mix_ult_bow"
 	{
-		"ID"							"3303"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2606,7 +2506,6 @@
 	}
 	"item_recipe_chaos_poison_mix_ult_bow"
 	{
-		"ID"							"3304"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2626,7 +2525,6 @@
 	}
 	"item_recipe_poison_light_mix_ult_bow"
 	{
-		"ID"							"3305"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2646,7 +2544,6 @@
 	}
 	"item_recipe_light_iron_mix_ult_bow"
 	{
-		"ID"							"3306"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2666,7 +2563,6 @@
 	}
 	"item_recipe_iron_breach_mix_ult_bow"
 	{
-		"ID"							"3307"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2686,7 +2582,6 @@
 	}
 	"item_recipe_breach_ice_mix_ult_bow"
 	{
-		"ID"							"3308"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2706,7 +2601,6 @@
 	}
 	"item_recipe_ice_wind_mix_ult_bow"
 	{
-		"ID"							"3209"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 
@@ -2731,7 +2625,6 @@
 	//=================================================================================================================
 	"item_recipe_poison_ult_bow"
 	{
-		"ID"							"2301"
 		"Model"							"models/props_gameplay/recipe.vmdl"
 		"BaseClass"						"item_recipe_arcane_boots"
 		
@@ -2754,7 +2647,6 @@
 	//=================================================================================================================
 	"item_recipe_fire_ult_bow"
 	{
-		"ID"							"2302"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		"Model"							"models/props_gameplay/recipe.vmdl"
@@ -2778,7 +2670,6 @@
 	//=================================================================================================================
 	"item_recipe_ice_ult_bow"
 	{
-		"ID"							"2303"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		"Model"							"models/props_gameplay/recipe.vmdl"
@@ -2803,7 +2694,6 @@
 	//=================================================================================================================
 	"item_recipe_wind_ult_bow"
 	{
-		"ID"							"2304"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		"Model"							"models/props_gameplay/recipe.vmdl"
@@ -2827,7 +2717,6 @@
 	//=================================================================================================================
 	"item_recipe_light_ult_bow"
 	{
-		"ID"							"2305"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		"Model"							"models/props_gameplay/recipe.vmdl"
@@ -2851,7 +2740,6 @@
 	//=================================================================================================================
 	"item_recipe_coal_ult_bow"
 	{
-		"ID"							"2306"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		"Model"							"models/props_gameplay/recipe.vmdl"
@@ -2874,7 +2762,6 @@
 	//=================================================================================================================
 	"item_recipe_plasma_ult_bow"
 	{
-		"ID"							"2307"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		"Model"							"models/props_gameplay/recipe.vmdl"
@@ -2898,7 +2785,6 @@
 	//=================================================================================================================
 	"item_recipe_spin_ult_bow"
 	{
-		"ID"							"2308"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		"Model"							"models/props_gameplay/recipe.vmdl"
@@ -2922,7 +2808,6 @@
 	//=================================================================================================================
 	"item_recipe_caulk_ult_bow"
 	{
-		"ID"							"2309"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		"Model"							"models/props_gameplay/recipe.vmdl"
@@ -2946,7 +2831,6 @@
 	//=================================================================================================================
 	"item_recipe_spread_ult_bow"
 	{
-		"ID"							"2309"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		"Model"							"models/props_gameplay/recipe.vmdl"
@@ -2970,7 +2854,6 @@
 	//=================================================================================================================
 	"item_recipe_breach_ult_bow"
 	{
-		"ID"							"2310"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		"Model"							"models/props_gameplay/recipe.vmdl"
@@ -2994,7 +2877,6 @@
 	//=================================================================================================================
 	"item_recipe_chaos_ult_bow"
 	{
-		"ID"							"2311"
 
 		"BaseClass"						"item_recipe_arcane_boots"
 		"Model"							"models/props_gameplay/recipe.vmdl"
@@ -3025,7 +2907,6 @@
 	//=================================================================================================================
 	"item_sail_one"
 	{
-		"ID"							"301"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -3097,7 +2978,6 @@
 	//=================================================================================================================
 	"item_sail_two"
 	{
-		"ID"							"602"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -3169,7 +3049,6 @@
 	//=================================================================================================================
 	"item_sail_three"
 	{
-		"ID"							"603"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -3242,7 +3121,6 @@
 	//=================================================================================================================
 	"item_sail_four"
 	{
-		"ID"							"604"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -3317,7 +3195,6 @@
 	//=================================================================================================================
 		"item_hull_one"
 	{
-		"ID"							"651"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -3386,7 +3263,6 @@
 	//=================================================================================================================
 		"item_hull_two"
 	{
-		"ID"							"652"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -3456,7 +3332,6 @@
 	//=================================================================================================================
 		"item_hull_three"
 	{
-		"ID"							"653"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -3527,7 +3402,6 @@
 	//=================================================================================================================
 		"item_hull_four"
 	{
-		"ID"							"654"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -3599,7 +3473,6 @@
 //    //=================================================================================================================
 //    "item_hull_sail_one_combo"
 //    {
-//        "ID"							"801"
 
 //        // General
 //        //-------------------------------------------------------------------------------------------------------------
@@ -3649,7 +3522,6 @@
 //    //=================================================================================================================
 //    "item_hull_sail_two_combo"
 //    {
-//        "ID"							"802"
 
 //        // General
 //        //-------------------------------------------------------------------------------------------------------------
@@ -3699,7 +3571,6 @@
 //    //=================================================================================================================
 //    "item_hull_sail_three_combo"
 //    {
-//        "ID"							"803"
 
 //        // General
 //        //-------------------------------------------------------------------------------------------------------------
@@ -3749,7 +3620,6 @@
     //=================================================================================================================
  //   "item_hull_sail_four_combo"
 //    {
- //       "ID"							"804"
 
         // General
         //-------------------------------------------------------------------------------------------------------------
@@ -3800,7 +3670,6 @@
 	//=================================================================================================================
     "item_hull_sail_one_combo_bow"
     {
-        "ID"							"805"
 
         // General
         //-------------------------------------------------------------------------------------------------------------
@@ -3891,7 +3760,6 @@
 	//=================================================================================================================
 	"item_wood_one"
 	{
-		"ID"							"851"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -3939,7 +3807,6 @@
 	//=================================================================================================================
 	"item_wood_two"
 	{
-		"ID"							"852"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -3985,7 +3852,6 @@
 	//=================================================================================================================
 	"item_wood_three"
 	{
-		"ID"							"853"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -4031,7 +3897,6 @@
 	//=================================================================================================================
 	"item_wood_four"
 	{
-		"ID"							"854"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -4077,7 +3942,6 @@
 	//=================================================================================================================
 		"item_repair_one"
 	{
-		"ID"							"901"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -4126,7 +3990,6 @@
 	//=================================================================================================================
 		"item_repair_two"
 	{
-		"ID"							"902"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -4174,7 +4037,6 @@
 	//=================================================================================================================
 		"item_repair_three"
 	{
-		"ID"							"903"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -4224,7 +4086,6 @@
 	//=================================================================================================================
 		"item_repair_four"
 	{
-		"ID"							"904"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -4274,7 +4135,6 @@
 //    //=================================================================================================================
 //        "item_repair_wood_one_combo"
 //    {
-//        "ID"							"951"
 
 //        // General
 //        //-------------------------------------------------------------------------------------------------------------
@@ -4339,7 +4199,6 @@
 //    //=================================================================================================================
 //        "item_repair_wood_two_combo"
 //    {
-//        "ID"							"952"
 
 //        // General
 //        //-------------------------------------------------------------------------------------------------------------
@@ -4404,7 +4263,6 @@
 //    //=================================================================================================================
 //        "item_repair_wood_three_combo"
 //    {
-//        "ID"							"953"
 
 //        // General
 //        //-------------------------------------------------------------------------------------------------------------
@@ -4477,7 +4335,6 @@
 	//===============================================
     "item_poison_bow"
 	{
-		"ID"                            "1001"
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -4557,7 +4414,6 @@
 	//===============================================
   "item_fire_bow"
 	{
-		"ID"                            "1002"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -4638,7 +4494,6 @@
 	//===============================================
   "item_ice_bow"
 	{
-		"ID"                            "1003"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -4721,7 +4576,6 @@
 	//===============================================
     "item_wind_bow"
 	{
-		"ID"                            "1004"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"							"models/props_gameplay/divine_rapier.vmdl"
@@ -4804,7 +4658,6 @@
 	//===============================================
   "item_light_bow"
 	{
-		"ID"                            "1005"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"							"models/props_gameplay/divine_rapier.vmdl"
@@ -4886,7 +4739,6 @@
 	//===============================================
   "item_coal_bow"
 	{
-		"ID"                            "1006"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -4968,7 +4820,6 @@
 	//===============================================
     "item_plasma_bow"
 	{
-		"ID"                            "1007"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -5059,7 +4910,6 @@
 	//===============================================
     "item_spin_bow"
 	{
-		"ID"                            "1008"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -5150,7 +5000,6 @@
 	//===============================================
     "item_breach_bow"
 	{
-		"ID"                            "1010"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -5310,7 +5159,6 @@
 	//===============================================
     "item_chaos_bow"
 	{
-		"ID"                            "1011"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -5389,7 +5237,6 @@
 	//===============================================
     "item_poison_two_bow"
 	{
-		"ID"                            "1101"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -5479,7 +5326,6 @@
 	//===============================================
     "item_fire_two_bow"
 	{
-		"ID"                            "1102"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -5570,7 +5416,6 @@
 	//===============================================
     "item_ice_two_bow"
 	{
-		"ID"                            "1103"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -5661,7 +5506,6 @@
 	//===============================================
     "item_wind_two_bow"
 	{
-		"ID"                            "1104"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -5751,7 +5595,6 @@
 	//===============================================
     "item_light_two_bow"
 	{
-		"ID"                            "1105"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -5840,7 +5683,6 @@
 	//===============================================
     "item_coal_two_bow"
 	{
-		"ID"                            "1106"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -5930,7 +5772,6 @@
 	//===============================================
     "item_plasma_two_bow"
 	{
-		"ID"                            "1107"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -6019,7 +5860,6 @@
 	//===============================================
     "item_spin_two_bow"
 	{
-		"ID"                            "1108"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -6109,7 +5949,6 @@
 	//===============================================
     "item_breach_two_bow"
 	{
-		"ID"                            "1110"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -6266,7 +6105,6 @@
 	//===============================================
     "item_chaos_two_bow"
 	{
-		"ID"                            "1111"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -6340,7 +6178,6 @@
 	//===============================================
     "item_poison_three_bow"
 	{
-		"ID"                            "1201"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -6422,7 +6259,6 @@
 	//===============================================
     "item_fire_three_bow"
 	{
-		"ID"                            "1202"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -6503,7 +6339,6 @@
 	//===============================================
     "item_ice_three_bow"
 	{
-		"ID"                            "1203"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -6589,7 +6424,6 @@
 	//===============================================
     "item_wind_three_bow"
 	{
-		"ID"                            "1204"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -6672,7 +6506,6 @@
 	//===============================================
     "item_light_three_bow"
 	{
-		"ID"                            "1205"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -6754,7 +6587,6 @@
 	//===============================================
     "item_coal_three_bow"
 	{
-		"ID"                            "1206"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -6840,7 +6672,6 @@
 	//===============================================
     "item_plasma_three_bow"
 	{
-		"ID"                            "1207"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -6926,7 +6757,6 @@
 	//===============================================
     "item_spin_three_bow"
 	{
-		"ID"                            "1208"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -7014,7 +6844,6 @@
 	//===============================================
     "item_breach_three_bow"
 	{
-		"ID"                            "1210"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -7152,7 +6981,6 @@
 	//===============================================
     "item_chaos_three_bow"
 	{
-		"ID"                            "1211"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -7236,7 +7064,6 @@
 	//===============================================
     "item_poison_bow_doubled"
 	{
-		"ID"                            "1501"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"							"models/props_gameplay/divine_rapier.vmdl"
@@ -7354,7 +7181,6 @@
 	//===============================================
     "item_fire_bow_doubled"
 	{
-		"ID"                            "1502"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -7459,7 +7285,6 @@
 	//===============================================
     "item_ice_bow_doubled"
 	{
-		"ID"                            "1503"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -7573,7 +7398,6 @@
 	//===============================================
     "item_wind_bow_doubled"
 	{
-		"ID"                            "1504"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -7658,7 +7482,6 @@
 	//===============================================
   "item_light_bow_doubled"
 	{
-		"ID"                            "1505"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -7743,7 +7566,6 @@
 	//===============================================
   "item_coal_bow_doubled"
 	{
-		"ID"                            "1506"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -7842,7 +7664,6 @@
 	//===============================================
   "item_plasma_bow_doubled"
 	{
-		"ID"                            "1507"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -7940,7 +7761,6 @@
 	//===============================================
   "item_spin_bow_doubled"
 	{
-		"ID"                            "1508"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -8023,7 +7843,6 @@
 	//===============================================
   "item_breach_bow_doubled"
 	{
-		"ID"                            "1510"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -8171,7 +7990,6 @@
 	//===============================================
   "item_chaos_bow_doubled"
 	{
-		"ID"                            "1511"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -8240,7 +8058,6 @@
 
 	"item_spread_plasma_mix_bow_doubled"
 	{
-		"ID"                            "1512"
 		 "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_lua"
 		"ScriptFile"                    "items/item_spread_plasma_mix"
@@ -8286,7 +8103,6 @@
 	//===============================================
   "item_poison_two_bow_doubled"
 	{
-		"ID"                            "1601"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -8406,7 +8222,6 @@
 	//===============================================
   "item_fire_two_bow_doubled"
 	{
-		"ID"                            "1602"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -8505,7 +8320,6 @@
 	//===============================================
   "item_ice_two_bow_doubled"
 	{
-		"ID"                            "1603"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -8615,7 +8429,6 @@
 	//===============================================
   "item_wind_two_bow_doubled"
 	{
-		"ID"                            "1604"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -8699,7 +8512,6 @@
 	//===============================================
   "item_light_two_bow_doubled"
 	{
-		"ID"                            "1605"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -8783,7 +8595,6 @@
 	//===============================================
   "item_coal_two_bow_doubled"
 	{
-		"ID"                            "1606"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -8883,7 +8694,6 @@
 	//===============================================
   "item_plasma_two_bow_doubled"
 	{
-		"ID"                            "1607"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -8984,7 +8794,6 @@
 	//===============================================
   "item_spin_two_bow_doubled"
 	{
-		"ID"                            "1608"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -9067,7 +8876,6 @@
 	//===============================================
   "item_breach_two_bow_doubled"
 	{
-		"ID"                            "1610"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -9212,7 +9020,6 @@
 	//===============================================
   "item_chaos_two_bow_doubled"
 	{
-		"ID"                            "1611"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"							"models/props_gameplay/divine_rapier.vmdl"
@@ -9281,7 +9088,6 @@
 	
 	"item_spread_plasma_mix_two_bow_doubled"
 	{
-		"ID"                            "1612"
 		 "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_lua"
 		"ScriptFile"                    "items/item_spread_plasma_mix"
@@ -9324,7 +9130,6 @@
 	//===============================================
 	"item_poison_three_bow_doubled"
 	{
-		"ID"                            "1701"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -9441,7 +9246,6 @@
 	//===============================================
   "item_fire_three_bow_doubled"
 	{
-		"ID"                            "1702"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -9544,7 +9348,6 @@
 	//===============================================
   "item_ice_three_bow_doubled"
 	{
-		"ID"                            "1703"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -9656,7 +9459,6 @@
 	//===============================================
   "item_wind_three_bow_doubled"
 	{
-		"ID"                            "1704"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -9741,7 +9543,6 @@
 	//===============================================
   "item_light_three_bow_doubled"
 	{
-		"ID"                            "1705"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -9820,7 +9621,6 @@
 	//===============================================
 	"item_coal_three_bow_doubled"
 	{
-		"ID"                            "1706"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -9920,7 +9720,6 @@
 	//===============================================
   "item_plasma_three_bow_doubled"
 	{
-		"ID"                            "1707"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -10020,7 +9819,6 @@
 	//===============================================
   "item_spin_three_bow_doubled"
 	{
-		"ID"                            "1708"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -10103,7 +9901,6 @@
 	//===============================================
     "item_breach_three_bow_doubled"
 	{
-		"ID"                            "1710"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -10253,7 +10050,6 @@
 	//===============================================
   "item_chaos_three_bow_doubled"
 	{
-		"ID"                            "1711"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -10316,7 +10112,6 @@
 
 	"item_spread_plasma_mix_three_bow_doubled"
 	{
-		"ID"                            "1712"
 		 "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_lua"
 		"ScriptFile"                    "items/item_spread_plasma_mix"
@@ -10363,7 +10158,6 @@
 	//===============================================
     "item_poison_ult_bow"
 	{
-		"ID"                            "1301"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -10482,7 +10276,6 @@
 	//===============================================
   "item_fire_ult_bow"
 	{
-		"ID"                            "1302"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -10592,7 +10385,6 @@
 	//===============================================
   "item_ice_ult_bow"
 	{
-		"ID"                            "1303"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -10703,7 +10495,6 @@
 	//===============================================
   "item_wind_ult_bow"
 	{
-		"ID"                            "1304"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -10789,7 +10580,6 @@
 	//===============================================
   "item_light_ult_bow"
 	{
-		"ID"                            "1305"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"							"models/props_gameplay/divine_rapier.vmdl"
@@ -10874,7 +10664,6 @@
 	//===============================================
   "item_coal_ult_bow"
 	{
-		"ID"                            "1306"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -10976,7 +10765,6 @@
 	//===============================================
     "item_plasma_ult_bow"
 	{
-		"ID"                            "1307"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11071,7 +10859,6 @@
 	//===============================================
   "item_spin_ult_bow"
 	{
-		"ID"                            "1308"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11150,7 +10937,6 @@
 	//===============================================
   "item_breach_ult_bow"
 	{
-		"ID"                            "1310"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11296,7 +11082,6 @@
 	//===============================================
   "item_chaos_ult_bow"
 	{
-		"ID"                            "1311"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11365,7 +11150,6 @@
 
 	 "item_spread_plasma_mix_ult_bow"
 	{
-		"ID"                            "1312"
 		 "AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_lua"
 		"ScriptFile"                    "items/item_spread_plasma_mix_ult"
@@ -11406,7 +11190,6 @@
 	//===============================================
   "item_fluff"
 	{
-		"ID"                            "2501"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11455,7 +11238,6 @@
 	//===============================================
   "item_lorne"
 	{
-		"ID"                            "2502"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11501,7 +11283,6 @@
 	
 	"item_tower_debuff"
 	{
-		"ID"                            "2503"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11548,7 +11329,6 @@
 	
 	"item_fluff2"
 	{
-		"ID"                            "2504"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11596,7 +11376,6 @@
 
 	"item_fluff3"
 	{
-		"ID"                            "2505"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11644,7 +11423,6 @@
 
 	"item_fluff4"
 	{
-		"ID"                            "2505"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11692,7 +11470,6 @@
 
 	"item_fluff5"
 	{
-		"ID"                            "2506"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11740,7 +11517,6 @@
 
 	"item_fluff6"
 	{
-		"ID"                            "2507"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11788,7 +11564,6 @@
 
 	"item_fluff7"
 	{
-		"ID"                            "2508"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11835,7 +11610,6 @@
 
 	"item_fluff8"
 	{
-		"ID"                            "2509"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11883,7 +11657,6 @@
 
 	"item_monkey_buisness"
 	{
-		"ID"                            "2510"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -11981,7 +11754,6 @@
 
 	"item_spawn_stunner"
 	{
-		"ID"                            "2511"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12083,7 +11855,6 @@
 	
 	"item_tower_healer"
 	{
-		"ID"                            "2512"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12130,7 +11901,6 @@
 	
 	"item_nut_spawner"
 	{
-		"ID"                            "2513"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12153,7 +11923,6 @@
 	
 	"item_fluff_flag1"
 	{
-		"ID"                            "2514"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12200,7 +11969,6 @@
 
 	"item_fluff_flag2"
 	{
-		"ID"                            "2515"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12248,7 +12016,6 @@
 
 	"item_fluff_flag3"
 	{
-		"ID"                            "2516"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12296,7 +12063,6 @@
 
 	"item_fluff_flag4"
 	{
-		"ID"                            "2509"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12354,7 +12120,6 @@
 	//=================================================================================================================
 	"item_puck_replacement_boat"
 	{
-		"ID"                            "3002"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12403,7 +12168,6 @@
 	//=================================================================================================================
 	"item_kunkka_replacement_boat"
 	{
-		"ID"                            "3003"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12454,7 +12218,6 @@
 	//=================================================================================================================
 	"item_brewmaster_replacement_boat"
 	{
-		"ID"                            "3004"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12502,7 +12265,6 @@
 	//=================================================================================================================
 	"item_tidehunter_replacement_boat"
 	{
-		"ID"                            "3005"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12551,7 +12313,6 @@
 	//=================================================================================================================
 	"item_jakiro_replacement_boat"
 	{
-		"ID"                            "3006"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12599,7 +12360,6 @@
 	//=================================================================================================================
 	"item_morphling_replacement_boat"
 	{
-		"ID"                            "3007"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12647,7 +12407,6 @@
 	//=================================================================================================================
 	"item_zuus_replacement_boat"
 	{
-		"ID"                            "3008"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12695,7 +12454,6 @@
 	//=================================================================================================================
 	"item_gyrocopter_replacement_boat"
 	{
-		"ID"                            "3009"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12743,7 +12501,6 @@
 	//=================================================================================================================
 	"item_magnus_replacement_boat"
 	{
-		"ID"                            "3010"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12791,7 +12548,6 @@
 	//=================================================================================================================
 	"item_lion_replacement_boat"
 	{
-		"ID"                            "3011"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12839,7 +12595,6 @@
 	//=================================================================================================================
 	"item_spectre_replacement_boat"
 	{
-		"ID"                            "3012"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12888,7 +12643,6 @@
 	//=================================================================================================================
 	"item_visage_replacement_boat"
 	{
-		"ID"                            "3013"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12937,7 +12691,6 @@
 	//=================================================================================================================
 	"item_nevermore_replacement_boat"
 	{
-		"ID"                            "3014"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -12986,7 +12739,6 @@
 	//=================================================================================================================
 	"item_rubick_replacement_boat"
 	{
-		"ID"                            "3015"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -13034,7 +12786,6 @@
 	//=================================================================================================================
 	"item_shredder_replacement_boat"
 	{
-		"ID"                            "3016"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -13083,7 +12834,6 @@
 	//=================================================================================================================
 	"item_treant_replacement_boat"
 	{
-		"ID"                            "3017"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -13132,7 +12882,6 @@
 	//=================================================================================================================
 	"item_crystal_maiden_replacement_boat"
 	{
-		"ID"                            "3018"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -13181,7 +12930,6 @@
 	//=================================================================================================================
 	"item_phantom_lancer_replacement_boat"
 	{
-		"ID"                            "3019"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -13229,7 +12977,6 @@
 	//=================================================================================================================
 	"item_storm_spirit_replacement_boat"
 	{
-		"ID"                            "3020"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -13278,7 +13025,6 @@
 	//=================================================================================================================
 	"item_wisp_replacement_boat"
 	{
-		"ID"                            "3021"
 		"AbilityBehavior"               "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_ATTACK | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"                     "item_datadriven"
 		"Model"								"models/props_gameplay/divine_rapier.vmdl"
@@ -13324,7 +13070,6 @@
 	
 	"item_contract_empty"
 	{
-		"ID"							"3600"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -13365,7 +13110,6 @@
 	}
   "item_contract_easy_right_bot"
 	{
-		"ID"							"3601"
 		// General
 		//-------------------------------------------------------------------------------------------------------------
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
@@ -13405,7 +13149,6 @@
 
 	"item_contract_easy_mid_bot"
 	{
-		"ID"							"3602"
 
 		// General
 		//-------------------------------------------------------------------------------------------------------------
@@ -13444,7 +13187,6 @@
 	}
 	"item_contract_easy_left_bot"
 	{
-		"ID"							"3603"
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
 		"AbilityTextureName"			"item_contract_one"
@@ -13479,7 +13221,6 @@
 	
 	"item_contract_easy_right_mid"
 	{
-		"ID"							"3604"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13514,7 +13255,6 @@
 	}
 	"item_contract_easy_mid_mid"
 	{
-		"ID"							"3605"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13549,7 +13289,6 @@
 	}
 	"item_contract_easy_left_mid"
 	{
-		"ID"							"3606"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13584,7 +13323,6 @@
 	}
 	"item_contract_easy_right_top"
 	{
-		"ID"							"3607"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13619,7 +13357,6 @@
 	}
 	"item_contract_easy_mid_top"
 	{
-		"ID"							"3608"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13654,7 +13391,6 @@
 	}
 	"item_contract_easy_left_top"
 	{
-		"ID"							"3609"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13690,7 +13426,6 @@
 	
 	"item_contract_medium_right_bot"
 	{
-		"ID"							"3610"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13725,7 +13460,6 @@
 	}
 	"item_contract_medium_mid_bot"
 	{
-		"ID"							"3611"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13760,7 +13494,6 @@
 	}
 	"item_contract_medium_left_bot"
 	{
-		"ID"							"3612"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13796,7 +13529,6 @@
 	
 	"item_contract_medium_right_mid"
 	{
-		"ID"							"3613"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13831,7 +13563,6 @@
 	}
 	"item_contract_medium_mid_mid"
 	{
-		"ID"							"3614"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13866,7 +13597,6 @@
 	}
 	"item_contract_medium_left_mid"
 	{
-		"ID"							"3615"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13901,7 +13631,6 @@
 	}
 	"item_contract_medium_right_top"
 	{
-		"ID"							"3616"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13936,7 +13665,6 @@
 	}
 	"item_contract_medium_mid_top"
 	{
-		"ID"							"3617"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -13971,7 +13699,6 @@
 	}
 	"item_contract_medium_left_top"
 	{
-		"ID"							"3618"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -14007,7 +13734,6 @@
 	
 	"item_contract_hard_mid_bot"
 	{
-		"ID"							"3619"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -14042,7 +13768,6 @@
 	}
 	"item_contract_hard_left_bot"
 	{
-		"ID"							"3620"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -14078,7 +13803,6 @@
 	
 	"item_contract_hard_right_mid"
 	{
-		"ID"							"3621"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -14113,7 +13837,6 @@
 	}
 	"item_contract_hard_mid_mid"
 	{
-		"ID"							"3622"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -14148,7 +13871,6 @@
 	}
 	"item_contract_hard_left_mid"
 	{
-		"ID"							"3623"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -14183,7 +13905,6 @@
 	}
 	"item_contract_hard_right_top"
 	{
-		"ID"							"3624"
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
 		"AbilityTextureName"			"item_contract_three"
@@ -14217,7 +13938,6 @@
 	}
 	"item_contract_hard_mid_top"
 	{
-		"ID"							"3625"
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
 		"AbilityTextureName"			"item_contract_three"
@@ -14251,7 +13971,6 @@
 	}
 	"item_contract_hard_left_top"
 	{
-		"ID"							"3626"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -14286,7 +14005,6 @@
 	}
 	"item_contract_hard_right_bot"
 	{
-		"ID"							"3627"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -14323,7 +14041,6 @@
 	
 	"item_temp_javelin"
 	{
-		"ID"							"3700"
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
@@ -14393,7 +14110,6 @@
 	
 	"item_temp_fire_oil"
 	{
-		"ID"							"3701"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
 		"BaseClass"						"item_datadriven"
@@ -14474,7 +14190,6 @@
 
 	"item_temp_shield"
 	{
-		"ID"							"3702"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
 		"BaseClass"						"item_datadriven"
@@ -14539,7 +14254,6 @@
 	
 	"item_oneshot_net"
 	{
-		"ID"							"3800"
 
 			"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
 		"BaseClass"						"item_datadriven"
@@ -14618,7 +14332,6 @@
 	
 	"item_oneshot_info"
 	{
-		"ID"							"3801"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -14666,7 +14379,6 @@
 
 	"item_oneshot_ham"
 	{
-		"ID"							"3802"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_MOVEMENT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
 		"BaseClass"						"item_datadriven"
@@ -14731,7 +14443,6 @@
 
 	"item_oneshot_first_aid"
 	{
-		"ID"							"3803"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
 		"BaseClass"						"item_datadriven"
@@ -14779,7 +14490,6 @@
 	
 	"item_oneshot_brew"
 	{
-		"ID"							"3804"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
 		"BaseClass"						"item_datadriven"
@@ -14879,7 +14589,6 @@
 	
 	"item_oneshot_power"
 	{
-		"ID"							"3805"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -14953,7 +14662,6 @@
 	//=================================================================================================================
 	"item_oneshot_fish"
 	{
-		"ID"							"3806"
 		"AbilityUnitDamageType"			"DAMAGE_TYPE_PHYSICAL"	
 		"AbilityTextureName"			"item_winter_greevil_treat"
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
@@ -15017,7 +14725,6 @@
 	
 	"item_oneshot_line"
 	{
-		"ID"							"3807"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
 		"BaseClass"						"item_datadriven"
@@ -15101,7 +14808,6 @@
 	
 	"item_oneshot_earth"
 	{
-		"ID"							"3808"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -15159,7 +14865,6 @@
 	}
 	"item_oneshot_sun_screen"
 	{
-		"ID"							"3808"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -15220,7 +14925,6 @@
 	
 	"item_oneshot_sand"
 	{
-		"ID"							"3809"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
 		"BaseClass"						"item_datadriven"
@@ -15295,7 +14999,6 @@
 	
 	"item_oneshot_firecrackers"
 	{
-		"ID"							"3810"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"AbilityUnitDamageType"			"DAMAGE_TYPE_PHYSICAL"	
@@ -15362,7 +15065,6 @@
 	
 	"item_oneshot_luck"
 	{
-		"ID"							"3811"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
 		"BaseClass"						"item_datadriven"
@@ -15427,7 +15129,6 @@
 	
 	"item_oneshot_good_stuff"
 	{
-		"ID"							"3812"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -15500,7 +15201,6 @@
 	
 	"item_oneshot_booze"
 	{
-		"ID"							"3813"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -15541,7 +15241,6 @@
 	}
 	"item_oneshot_trap"
 	{
-		"ID"							"3814"
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_POINT"
 			"BaseClass"						"item_datadriven"
 		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_ENEMY"
@@ -15589,7 +15288,6 @@
 	
 	"item_oneshot_chain"
 	{
-		"ID"							"3815"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
 		"BaseClass"						"item_datadriven"
@@ -15656,7 +15354,6 @@
 	
 	"item_oneshot_camo"
 	{
-		"ID"							"3816"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -15732,7 +15429,6 @@
 	
 	"item_oneshot_scope"
 	{
-		"ID"							"3817"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -15792,7 +15488,6 @@
 
 	"item_oneshot_mango"
 	{
-		"ID"							"3818"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
 		"BaseClass"						"item_datadriven"
@@ -15835,7 +15530,6 @@
 
 	"item_trade_manifest"
 	{
-		"ID"							"3820"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"						"item_datadriven"
@@ -15865,7 +15559,6 @@
 	
 	"item_bag_of_gold_battleships"
 	{
-		"ID"							"3821"		
 		"BaseClass"						"item_datadriven"
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
 		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_FRIENDLY"
@@ -15899,7 +15592,6 @@
 	
 	"item_backpack_stuffer"
 	{
-		"ID"							"3822"
 
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_PASSIVE"
 		"BaseClass"						"item_datadriven"
