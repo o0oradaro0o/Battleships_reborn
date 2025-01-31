@@ -173,7 +173,7 @@
 	
 	"Ships"					"Ships"
 	"ship_shop"					"Ship Shop"
-	"left_click"					"Left click for additional details. Right click to buy."
+	"left_click"					"Left click for details. Right click to buy."
 	"hp"	"Hit Points:"
 	"ms"	"Move Speed:"
 	"regen"	"HP Regen/s:"
