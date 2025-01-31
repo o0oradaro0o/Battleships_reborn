@@ -4143,21 +4143,21 @@ function CBattleship8D:OnEntityKilled(keys)
 
         if killerEntity:IsRealHero() and killerEntity:GetTeamNumber() ~= killedUnit:GetTeamNumber() then
             if killerEntity:GetPlayerID() ~= nil then
-                PlayerResource:SetCameraTarget(killedUnit:GetPlayerID(), killerEntity)
+                -- PlayerResource:SetCameraTarget(killedUnit:GetPlayerID(), killerEntity)
                 -- send playerkilledplayer to server
                 playerData = {}
-                print("sending player killed player event to server for player " .. killedUnit:GetPlayerID() .. " killed by " .. killerEntity:GetPlayerID())
-                CustomGameEventManager:Send_ServerToPlayer(PlayerResource:GetPlayer(killedUnit:GetPlayerID()), "player_killed_player", playerData)
+                -- print("sending player killed player event to server for player " .. killedUnit:GetPlayerID() .. " killed by " .. killerEntity:GetPlayerID())
+                -- CustomGameEventManager:Send_ServerToPlayer(PlayerResource:GetPlayer(killedUnit:GetPlayerID()), "player_killed_player", playerData)
                 
-                Timers:CreateTimer(
-                5,
-                    function()
-                        playerData = {}
-                        CustomGameEventManager:Send_ServerToPlayer(PlayerResource:GetPlayer(killedUnit:GetPlayerID()), "stop_spin", playerData)
+                -- Timers:CreateTimer(
+                -- 5,
+                --     function()
+                --         playerData = {}
+                --         CustomGameEventManager:Send_ServerToPlayer(PlayerResource:GetPlayer(killedUnit:GetPlayerID()), "stop_spin", playerData)
             
-                        PlayerResource:SetCameraTarget(killedUnit:GetPlayerID(), nil)
-                    end
-                )
+                --         PlayerResource:SetCameraTarget(killedUnit:GetPlayerID(), nil)
+                --     end
+                -- )
                 killerName = PlayerResource:GetPlayerName(killerEntity:GetPlayerID())
                 table.insert(
                     g_combatLogArray,

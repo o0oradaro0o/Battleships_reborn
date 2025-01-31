@@ -1057,6 +1057,7 @@
   font-weight: bold;
   margin: 3px;
   text-shadow: 4px 4px 4px #121212;
+  vertical-align: center;
 }
 .trade_text_subtitle {
   horizontal-align: center;
@@ -2693,6 +2694,96 @@
   horizontal-align: center;
   max-width: 200px;
 }
+.ColoredButton {
+  border-top: 1px solid #ffffff11;
+  border-left: 1px solid #ffffff06;
+  border-right: 1px solid #00000044;
+  border-bottom: 1px solid #00000088;
+  height: 44px;
+}
+
+.ColoredButton.Hover:enabled,
+.ColoredButton:hover:enabled {
+  brightness: 1.5;
+}
+
+.ColoredButton:active {
+  brightness: 2;
+}
+.OpenTreasureButton {
+  width: fill-parent-flow(1);
+  padding: 8px 14px 6px 14px;
+  transition-property: background-color, box-shadow, brightness;
+  transition-duration: 0.2s;
+}
+
+@keyframes 'pulseglow' {
+  0% {
+    background-color: gradient(
+      linear,
+      0% 0%,
+      0% 100%,
+      from(#67aeff),
+      to(#3c608d44)
+    );
+  }
+
+  50% {
+    background-color: gradient(
+      linear,
+      0% 0%,
+      0% 100%,
+      from(#406a9f),
+      to(#3c608c44)
+    );
+  }
+
+  100% {
+    background-color: gradient(
+      linear,
+      0% 0%,
+      0% 100%,
+      from(#67aeff),
+      to(#3c608d44)
+    );
+  }
+}
+
+.OpenTreasureButton:enabled {
+  background-color: gradient(
+    linear,
+    0% 0%,
+    0% 100%,
+    from(#3484a7),
+    to(#245575)
+  );
+  animation-name: pulseglow;
+  animation-duration: 3.5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  box-shadow: fill #00000044 1px -1px 8px 1px;
+}
+
+.OpenTreasureButton:disabled {
+  background-color: gradient(
+    linear,
+    0% 0%,
+    0% 100%,
+    from(#101010),
+    to(#202020)
+  );
+}
+
+.OpenTreasureButton:enabled:hover {
+  box-shadow: fill #3484a744 1px -1px 8px 1px;
+}
+.OpenTreasureButton Label {
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  horizontal-align: center;
+}
+
 #rollCostAmount {
   color: #ffcc33;
   font-weight: bold;
@@ -2756,8 +2847,7 @@
 #WaifuImage {
   z-index: 100;
 }
-.closeRoll
-{
+.closeRoll {
   visibility: visible;
   horizontal-align: right;
   vertical-align: top;
@@ -2776,7 +2866,6 @@
   border-radius: 5px;
 }
 .closeRoll:hover {
-
   background-color: gradient(
     linear,
     0% 50%,
