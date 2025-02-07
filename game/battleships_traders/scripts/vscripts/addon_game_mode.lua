@@ -374,6 +374,7 @@ function Precache(context)
         PrecacheResource("particle", particleName, context)
     end
     for _,modelName in pairs(precache.models) do
+        print("Precaching model: " .. modelName)
         PrecacheResource("model", modelName, context)
     end
     for _,unitName in pairs(precache.units) do
