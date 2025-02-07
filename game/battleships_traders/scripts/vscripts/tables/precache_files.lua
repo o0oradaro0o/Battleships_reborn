@@ -18,6 +18,7 @@ return {
     "npc_dota_boat_north_two",
     "npc_dota_air_craft",
     "npc_dota_air_craft_bomber",
+    "npc_dota_turret",
     "npc_dota_boat_pleasure_craft",
     "npc_dota_shop_right_mid",
     "npc_dota_shop_right_top",
@@ -96,6 +97,10 @@ return {
     "models/trade_three_boat.vmdl",
     "models/trade_boat_two.vmdl",
     "models/heroes.vmdl",
+    "models/items/courier/hermit_crab/hermit_crab.vmdl",
+    "models/zodiac/sm_zodiac.vmdl",
+    "models/items/courier/corsair_ship/corsair_ship.vmdl"
+    "models/iceberg.vmdl"
   },
 
   sounds = {
