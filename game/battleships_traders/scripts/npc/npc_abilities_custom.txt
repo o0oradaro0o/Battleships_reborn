@@ -2100,6 +2100,10 @@
 		//-------------------------------------------------------------------------------------------------------------
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_MOVEMENT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
 
+		"precache"
+		{
+			"soundfile"		"soundevents/game_sounds_heroes/game_sounds_drowranger.vsndevts"
+		}
 		
 		"BaseClass" 					"ability_datadriven"
 		"AbilityTextureName"			"head_above_water_battleship"
@@ -6556,7 +6560,11 @@
 		"AbilityUnitDamageType"			"DAMAGE_TYPE_PHYSICAL"	
 		"AbilityTextureName"			"drumb"
 
-		
+		"precache"
+		{
+			"soundfile"		"soundevents/game_sounds_heroes/game_sounds_troll_warlord.vsndevts"
+		}
+
 		"BaseClass" 					"ability_datadriven"
 		"AbilityCastRange"				"600 650 700 800"
 		"AbilityCastPoint"				"0.0 0.0 0.0 0.0"
@@ -9429,6 +9437,7 @@
 	"SpellImmunityType"				"SPELL_IMMUNITY_ALLIES_YES"
 	"FightRecapLevel"				"2"
 	"AbilityTextureName"			"omniknight_guardian_angel"
+	"AbilityCastRange"				"400 500 600 700"
 
 	// Time		
 	"AbilityCooldown"				"40.0 38.0 36.0 34.0"
@@ -12285,9 +12294,9 @@
 	"FightRecapLevel"				"2"
 	"AbilityTextureName"			"swap"
 	"CastFilterRejectCaster" 		"1"
-		"MaxLevel"						"3"
-		"LevelsBetweenUpgrades"					"3"
-		"RequiredLevel"					"2"
+	"MaxLevel"						"3"
+	"LevelsBetweenUpgrades"					"3"
+	"RequiredLevel"					"2"
 
 	// Precache
 	//-------------------------------------------------------------------------------------------------------------
@@ -12303,7 +12312,6 @@
 
 		"particle"			"particles/units/heroes/hero_vengeful/vengeful_nether_swap.vpcf"
 		"particle"  		"particles/units/heroes/hero_vengeful/vengeful_nether_swap_pink.vpcf"
-						
 	}
 
 	// Casting
@@ -12654,6 +12662,11 @@
 		"AbilityChannelTime"			"3 3.5 4"
     "AbilityManaCost"               "0"
 		"AbilityCastRange"    "800"
+
+		"precache"
+		{
+			"particle"	"particles/ufo_pull.vpcf"
+		}
     
     "AbilityValues"
     {
@@ -12735,6 +12748,7 @@
 			"precache"
 			{
 				"soundfile"		"soundevents/game_sounds_heroes/game_sounds_faceless_void.vsndevts"
+				"particle"		"particles/econ/items/wisp/wisp_tether_ti7.vpcf"
 			}
 			
 			"AbilityCastRange"				"650 750 850 950"

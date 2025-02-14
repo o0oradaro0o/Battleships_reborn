@@ -808,7 +808,7 @@
 		"Ability4"					"swim_battleship"
 		"Ability5"					"bships_empty"
 		"Ability6"					"bships_empty"
-				"Ability10"					"bships_empty"
+		"Ability10"					"bships_empty"
 		"Ability11"					"bships_empty"
 		"Ability12"					"bships_empty"
 		"Ability13"					"bships_empty"
@@ -1346,8 +1346,12 @@
 		"Ability2"					"deadline_battleship"
 		"Ability3"					"abaddon_aphotic_shield_battleship"
 		"Ability4"					"deploy_science_tower"
-"Ability6"					"bships_empty"
-				"Ability10"					"bships_empty"
+		"Ability5"					"bships_empty"
+		"Ability6"					"bships_empty"
+		"Ability7"					"bships_empty"
+		"Ability8"					"bships_empty"
+		"Ability9"					"bships_empty"
+		"Ability10"					"bships_empty"
 		"Ability11"					"bships_empty"
 		"Ability12"					"bships_empty"
 		"Ability13"					"bships_empty"
@@ -1356,6 +1360,10 @@
 		"Ability16"					"bships_empty"
 		"Ability17"					"bships_empty"
 		"Ability18"					"bships_empty"
+		"Ability19"					"bships_empty"
+		"Ability20"					"bships_empty"
+		"Ability21"					"bships_empty"
+		"Ability22"					"bships_empty"
         "ModelScale"        ".5"
 		"RingRadius"				"100"
 		"AttachWearables"
@@ -1387,6 +1395,10 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+
+		"Facets"
+		{
+		}
 	}
 	
 	//=================================================================================================================

@@ -361,6 +361,21 @@ function Precache(context)
 
     local precache = require('tables/precache_files')
 
+    for _,abilityName in pairs(precache.abilities) do
+        PrecacheItemByNameSync(abilityName, context)
+    end
+    for _,particleName in pairs(precache.particles) do
+        PrecacheResource("particle", particleName, context)
+    end
+    for _,modelName in pairs(precache.models) do
+        PrecacheResource("model", modelName, context)
+    end
+    for _,soundfile in pairs(precache.sounds) do
+        PrecacheResource("soundfile", soundfile, context)
+    end
+    for _,unitName in pairs(precache.units) do
+        PrecacheUnitByNameSync(unitName, context)
+    end
     PrecacheResource("model", "models/items/lion/hellclaw_of_maelrawn/hellclaw_of_maelrawn.vmdl", context)
     PrecacheResource("model", "models/crabparts/anuxi_cerci_tail.vmdl", context)
     PrecacheResource("model", "models/crabparts/defiledstinger_back.vmdl", context)
@@ -370,19 +385,6 @@ function Precache(context)
     PrecacheResource("particle_folder", "particles/basic_projectile", context)
     PrecacheResource("particle_folder", "particles/overhead_fx", context)
     PrecacheResource("materials", "materials/", context)
-    for _,particleName in pairs(precache.particles) do
-        PrecacheResource("particle", particleName, context)
-    end
-    for _,modelName in pairs(precache.models) do
-        print("Precaching model: " .. modelName)
-        PrecacheResource("model", modelName, context)
-    end
-    for _,unitName in pairs(precache.units) do
-        PrecacheUnitByNameSync(unitName, context)
-    end
-    for _,soundfile in pairs(precache.sounds) do
-        PrecacheResource("soundfile", soundfile, context)
-    end
 end
 
 -- Create the game mode when we activate

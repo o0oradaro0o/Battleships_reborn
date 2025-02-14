@@ -695,11 +695,9 @@ function CallPuckDive(args) -- keys is the information sent by the ability
 end
 
 function SwimBrakDamageTaken(args) 
-	PrintTable(args)
 	local targetUnit = args.caster
 	if args.dmg>10 then
 		targetUnit:AddNewModifier(creature, nil, "modifier_stunned", {duration = 3.0})
-	
 	end
 end
 
