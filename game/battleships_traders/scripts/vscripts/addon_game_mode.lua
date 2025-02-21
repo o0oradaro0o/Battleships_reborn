@@ -5411,7 +5411,7 @@ function fixBackpack(casterUnit)
 end
 
 function become_boat(casterUnit, heroname)
-    print('[ItemFunctions] become_bristleback started!')
+    print("Become boat " .. heroname)
 
     local a = 0
     local plyID = casterUnit:GetPlayerOwnerID()
@@ -5475,7 +5475,7 @@ function become_boat(casterUnit, heroname)
         g_BoatJustBaught = 1
         local hero = PlayerResource:ReplaceHeroWith(casterUnit:GetPlayerID(), heroname, 0, 0)
         SendToServerConsole("dota_combine_models 0")
-        casterUnit:RemoveSelf()
+        -- casterUnit:RemoveSelf()
         ----print("called replace hero")
         if hero ~= nil then
             local id = hero:GetPlayerOwnerID()

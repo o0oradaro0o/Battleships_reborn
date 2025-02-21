@@ -25,6 +25,7 @@ return {
     "particles/ufo_pull.vpcf",
     "particles/econ/items/wisp/wisp_tether_ti7.vpcf",
     "particles/units/heroes/hero_shredder/shredder_timberchain.vpcf",
+    "particles/units/heroes/hero_jakiro/jakiro_icepath_debuff.vpcf",
   },
 
   abilities = {
@@ -97,7 +98,7 @@ return {
     "npc_dota_hero_visage_battleship8d",
     "npc_dota_hero_gyrocopter_battleship8d",
     "npc_dota_hero_spectre_battleship8d",
-    "npc_dota_hero_treant_battleship8d",
+    "npc_dota_hero_windrunner_battleship8d",
     "npc_dota_hero_wisp_battleship8d",
     "npc_dota_hero_razor_battleship8d",
     "npc_dota_hero_wisp2_battleship8d",

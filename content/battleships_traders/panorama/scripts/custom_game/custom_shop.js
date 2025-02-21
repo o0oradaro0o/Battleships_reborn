@@ -583,6 +583,9 @@ function fixUI() {
     "inventory_tpscroll_container"
   ).style.visibility = "collapse";
   newCenterUI.FindChildTraverse(
+    "inventory_neutral_craft_holder"
+  ).style.visibility = "collapse";
+  newCenterUI.FindChildTraverse(
     "inventory_neutral_slot_container"
   ).style.visibility = "collapse";
   sidenotif.style.visibility = "collapse";

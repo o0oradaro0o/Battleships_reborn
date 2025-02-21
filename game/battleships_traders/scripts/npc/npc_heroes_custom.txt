@@ -52,6 +52,9 @@
 		"RingRadius"				"100"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 
 	"RenderablePortrait"
 	{
@@ -115,6 +118,9 @@
 		"Ability18"					"bships_empty"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 		"ItemSlots" {}
 		
 		"BountyGoldMin"				"74"		// Gold earned min.
@@ -179,32 +185,31 @@
 		"BountyGoldMax"				"126"		// Gold earned max.
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 		
 	}
 	//=================================================================================================================
-    // HERO: canoe ship
-    //=================================================================================================================
-    "npc_dota_hero_crystal_maiden_battleship8d" 
-    {
-
-        "override_hero"             "npc_dota_hero_crystal_maiden"          // Hero to override
-
+	// HERO: canoe ship
+	//=================================================================================================================
+	"npc_dota_hero_crystal_maiden_battleship8d" 
+	{
+		"override_hero"             "npc_dota_hero_crystal_maiden"          // Hero to override
 
 		"Model" "models/canoe_boat.vmdl"  // Model.
-        "SoundSet"          "Hero_Kunkka"                                        // Name of sound set.
-		
+		"SoundSet"          "Hero_Kunkka"                                        // Name of sound set.
 		
 		"AttackCapabilities"		"DOTA_UNIT_CAP_NO_ATTACK"
 		
-	   "AttributeBaseStrength"     "0"
-        "AttributeStrengthGain"     "0"
-        "AttributeBaseIntelligence" "0"
-        "AttributeIntelligenceGain" "0"
-        "AttributeBaseAgility"      "0"
-        "AttributeAgilityGain"      "0"
-		 "StatusMana"                "0"
-        "StatusManaRegen"           "0.0"
-
+		"AttributeBaseStrength"     "0"
+		"AttributeStrengthGain"     "0"
+		"AttributeBaseIntelligence" "0"
+		"AttributeIntelligenceGain" "0"
+		"AttributeBaseAgility"      "0"
+		"AttributeAgilityGain"      "0"
+		"StatusMana"                "0"
+		"StatusManaRegen"           "0.0"
 
 		"MovementSpeed"				"290"									// Speed.
 		"MovementTurnRate"			"0.7"									// Turning rate.
@@ -212,7 +217,7 @@
 		"StatusHealth"				"800"		// Base health.
 		"StatusHealthRegen"			"5.0"		// Health regeneration rate.
 		
-				"ArmorPhysical"				"0"
+		"ArmorPhysical"				"0"
 		"MagicalResistance"				"0"
 		
 		"AbilityLayout"				"3"
@@ -230,10 +235,13 @@
 		"Ability16"					"bships_empty"
 		"Ability17"					"bships_empty"
 		"Ability18"					"bships_empty"
-        "ModelScale"        "1.0"
+		"ModelScale"        "1.0"
 		"RingRadius"				"100"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 		"AttachWearables"
 		{
 			"Wearable1"
@@ -314,6 +322,9 @@
 		"RingRadius"				"100"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 		"AttachWearables"
 		{
 			"Wearable1"
@@ -423,6 +434,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 
 		//=================================================================================================================
@@ -505,6 +519,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 
 	"npc_dota_hero_batrider_battleship8d" 
@@ -560,6 +577,9 @@
 		"BountyGoldMax"				"126"		// Gold earned max.
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 		
 	}
 
@@ -593,7 +613,7 @@
 		"ArmorPhysical"       "0"
 		"MagicalResistance"   "0"
 
-		"AbilityLayout"				"3"
+		"AbilityLayout"				"4"
 		"Ability1"					"pistols_battleship"
 		"Ability2"					"crab_walk"
 		"Ability3"					"crab_grab"
@@ -625,6 +645,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"
 		"VisionNighttimeRange"		"800"
+		"Facets"
+		{
+		}
 	}
 
 
@@ -689,6 +712,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"
 		"VisionNighttimeRange"		"800"
+		"Facets"
+		{
+		}
 	}
 
 
@@ -771,6 +797,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 		//=================================================================================================================
     // HERO: npc_dota_hero_winter_wyvern
@@ -849,6 +878,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 	
 	//=================================================================================================================
@@ -926,6 +958,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 
 	"npc_dota_hero_brewmaster_battleship" 
@@ -981,6 +1016,9 @@
 		"BountyGoldMax"				"126"		// Gold earned max.
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 		
 	}
 
@@ -1068,6 +1106,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 	
 	//=================================================================================================================
@@ -1148,6 +1189,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 
 	
@@ -1227,6 +1271,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 	
 	//=================================================================================================================
@@ -1307,14 +1354,13 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 
-	//=================================================================================================================
-    // HERO: jakiro
-    //=================================================================================================================
 	 "npc_dota_hero_marci_battleship8d" 
     {
-
         "override_hero"             "npc_dota_hero_marci"          // Hero to override
 
         "Model" "models/scienceship.vmdl"  // Model.
@@ -1395,7 +1441,6 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
-
 		"Facets"
 		{
 		}
@@ -1479,6 +1524,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 	
 	//=================================================================================================================
@@ -1557,6 +1605,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 		//=================================================================================================================
     // HERO: npc_dota_hero_magnus viking
@@ -1627,6 +1678,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 	//=================================================================================================================
     // HERO: npc_dota_hero_sniper battleship
@@ -1764,6 +1818,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 
 	
@@ -1844,6 +1901,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 	
 		//=================================================================================================================
@@ -1924,6 +1984,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 	
 	
@@ -2009,30 +2072,28 @@
 		"BountyGoldMax"				"801"		// Gold earned max.
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 
 	
-	//=================================================================================================================
-    // HERO: npc_dota_hero_treant battleship
-    //=================================================================================================================
-	 "npc_dota_hero_treant_battleship8d" 
-    {
+	"npc_dota_hero_windrunner_battleship8d" 
+	{
+		"override_hero"             "npc_dota_hero_windrunner"          // Hero to override
 
-        "override_hero"             "npc_dota_hero_windrunner"          // Hero to override
-
-        "Model" "models/const_boat.vmdl"    // Model.
-		 "SoundSet"          "Hero_Kunkka"  
+		"Model" "models/const_boat.vmdl"    // Model.
+		"SoundSet"          "Hero_Kunkka"  
 		"AttackCapabilities"		"DOTA_UNIT_CAP_NO_ATTACK"
-		
-	    "AttributeBaseStrength"     "0"
-        "AttributeStrengthGain"     "0"
-        "AttributeBaseIntelligence" "0"
-        "AttributeIntelligenceGain" "0"
-        "AttributeBaseAgility"      "0"
-        "AttributeAgilityGain"      "0"
-		 "StatusMana"                "0"
-        "StatusManaRegen"           "0.0"
-
+	
+		"AttributeBaseStrength"     "0"
+		"AttributeStrengthGain"     "0"
+		"AttributeBaseIntelligence" "0"
+		"AttributeIntelligenceGain" "0"
+		"AttributeBaseAgility"      "0"
+		"AttributeAgilityGain"      "0"
+		"StatusMana"                "0"
+		"StatusManaRegen"           "0.0"
 
 		"ArmorPhysical"				"0"
 		"MagicalResistance"				"0"
@@ -2051,7 +2112,7 @@
 		"Ability3"					"salvage_battleship"
 		"Ability4"					"shadow_shaman_shackles_battleship"
 
-				"Ability10"					"bships_empty"
+		"Ability10"					"bships_empty"
 		"Ability11"					"bships_empty"
 		"Ability12"					"bships_empty"
 		"Ability13"					"bships_empty"
@@ -2060,7 +2121,7 @@
 		"Ability16"					"bships_empty"
 		"Ability17"					"bships_empty"
 		"Ability18"					"bships_empty"
-        "ModelScale"        ".9"
+		"ModelScale"        ".9"
 		"RingRadius"				"100"
 		"ItemSlots"  {}
 		"BountyGoldMin"				"799"		// Gold earned min.
@@ -2068,6 +2129,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 	
 	//=================================================================================================================
@@ -2124,6 +2188,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"
 		"VisionNighttimeRange"		"800"
+		"Facets"
+		{
+		}
 	}
 
     //=================================================================================================================
@@ -2180,6 +2247,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 
 	//=================================================================================================================
@@ -2236,6 +2306,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"
 		"VisionNighttimeRange"		"800"
+		"Facets"
+		{
+		}
 	}
 	
 	//=================================================================================================================
@@ -2300,6 +2373,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"
 		"VisionNighttimeRange"		"800"
+		"Facets"
+		{
+		}
 	}
 
 	
@@ -2383,6 +2459,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 		
 	}
 	
@@ -2463,6 +2542,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 
 		
 	}
@@ -2532,6 +2614,9 @@
 		"DisableWearables" "1"
 		"VisionDaytimeRange"		"1800"		// Range of vision during day light.
 		"VisionNighttimeRange"		"800"		// Range of vision at night time.
+		"Facets"
+		{
+		}
 	}
 	
 }
